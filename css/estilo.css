@@ -7,17 +7,27 @@
 }
 a{
   text-decoration:none;
+  color:#7c1a1d;
 }
 #menu{
     font-family:"Calibri",sans-serif;
-    background-color:#ff0000;
-    color:#00ff00;
+    background-color:#e74c3c;
+    color:#7c1a1d;
     font-weight:bold;
     font-size:2em;
-    height:500px;
+    height:350px;
+    text-align: center;
 }
 li{
   background-color:white;
-  margin-right: 80%;
-  margin-bottom: 20px ;
+  margin-right: 37%;
+  margin-bottom: 20px;
+  text-align: center;
+  list-style-type: none;
+  margin-left: 30%;
+}
+img{
+  float: right;
+  width: 75px;
+  height: 75px;
 }
