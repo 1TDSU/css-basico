@@ -1,35 +1,37 @@
 
 #container{
 
-  
 
-  border-top: 5px solid rgb(245, 0, 102);
+
+  border-top: 3px solid rgb(245, 0, 102);
   border-radius: 10px;
 
   margin-left: 20%;
   margin-right: 20%;
   height : 600px;
 
- 
-  
+
+
   font-family: "Times New Roman","Verdana", serif;
+  text-align: center;
   background-color: rgb(154,166,163);
 }
 
 a{
   text-decoration:none;
+
 }
 
 #menu{
-  
+
   border: 5px solid rgb(245, 0, 102);
   border-radius: 10px;
-  
+
   font-family:"Calibri",sans-serif;
+  text-align: center;
+
   background-color:rgb(154,166,163);
   color: rgb(0, 0, 0);
   Font-weight: bold;
   Font-size:1cm;
 }
-
-
