@@ -3,17 +3,36 @@
   margin-right:20%;
   height:600px;
   font-family:"Times New Roman","Verdana",serif;
-  background-color:#FFF000;
+  background-color:#a78564;
 }
 
 a{
   text-decoration:none;
+  color: #3EA53C;
 }
 
 #menu{
   font-family:"Calibri",sans-serif;
-  background-color:#FF0000;
-  color:#00FF00;
+  background-color:#A73838;
+  color:#3EA53C;
   font-weight:bold;
   font-size:2em;
+  height: 350px;
+}
+
+#menu h2{
+  text-align: center;
+}
+
+#cursos{
+  list-style-type: none;
+}
+
+li{
+  text-align: center;
+  background-color: #FF0000;
+  margin-left: 30px;
+  margin-right: 70px;
+  margin-top: 20px;
+
 }
