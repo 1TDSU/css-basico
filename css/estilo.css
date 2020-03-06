@@ -1,0 +1,31 @@
+
+  #container {
+    margin-left:20%;
+    margin-right:20%;
+    height:600px;
+    font-family:"Times New Roman", "Verdana", serif;
+    background-color:#dad9cf;
+    text-align: center;
+  }
+
+  a{
+    text-decoration:none;
+    color:#ff00ff;
+  }
+
+  #menu{
+    font-family:"Calibri",sans-serif;
+    background-color:#838dea;
+    color:#00ffff;
+    font-weight:bold;
+    font-size:2em;
+    height: 350px;
+  }
+  li{
+    background-color:#0000008f;
+    list-style-type:none;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 70px;
+
+  }
