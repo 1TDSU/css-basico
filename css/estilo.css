@@ -35,3 +35,29 @@ a{
   Font-weight: bold;
   Font-size:1cm;
 }
+
+#imgJava{
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+
+
+#imgCsharp{
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+
+
+#imgPython{
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+
+#imgRuby{
+  width: 100px;
+  height: 100px;
+  float: right;
+}
