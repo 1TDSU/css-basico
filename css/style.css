@@ -1,0 +1,30 @@
+
+#container{
+  margin-left:15%;
+  margin-right:15%;
+  height:1000px;
+  font-family:"Times New Roman";
+  background-color:#1f222b;
+  color:#ffffff;
+}
+
+a{
+  text-decoration:none;
+}
+
+#imgJava{
+
+  margin-right: auto;
+  margin-left: auto;
+  width: fit-content;
+
+}
+
+#histJava{
+
+  text-align: center;
+  color:#ffffff;
+  margin-right: auto;
+  margin-left: auto;
+
+}
