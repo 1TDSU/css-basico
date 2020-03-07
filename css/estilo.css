@@ -2,7 +2,7 @@
   #container {
     margin-left:20%;
     margin-right:20%;
-    height:600px;
+    height:700px;
     font-family:"Times New Roman", "Verdana", serif;
     background-color:#dad9cf;
     text-align: center;
@@ -29,3 +29,13 @@
     margin-right: 70px;
 
   }
+  #imgcsharp{
+    height: 100px;
+    float:center;
+
+  }
+  #histcsharp{
+  font-size: 20px;
+  color: #000000;
+  font-family:"Times New Roman";
+}
