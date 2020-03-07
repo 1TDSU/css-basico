@@ -39,3 +39,14 @@
   color: #000000;
   font-family:"Times New Roman";
 }
+  #imgruby{
+    float:center;
+    height: 100px;
+
+
+  }
+  #histruby{
+    font-size: 20px;
+    color:#000000;
+    font-family:"Times New Roman"
+  }
