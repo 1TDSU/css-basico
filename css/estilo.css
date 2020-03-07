@@ -1,0 +1,18 @@
+#container{
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 600px;
+  font-family: "Times New Roman", "Verdana", serif;
+  background-color: #c2efdf;
+}
+a{
+  text-decoration: none;
+  color: #efe790;
+}
+#menu{
+  font-family: "Calibri", sans-serif;;
+  background-color: #ea8989;
+  color: #efe790;
+  font-weight: bold;
+  font-size: 2em;
+}
