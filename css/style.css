@@ -1,0 +1,114 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+a:link {
+    color: #fff;
+}
+
+/* body {
+    background: linear-gradient(#e91c5d, #a50e3e);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    height: 100vh;
+} */
+
+.content {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    height: 100vh;
+}
+
+.default {
+    background: linear-gradient(#e91c5d, #a50e3e);
+}
+
+.csharp {
+    background: linear-gradient(#a179dc, #280068) !important;
+}
+
+.java {
+    background: linear-gradient(#eb3d3f, #127cc0) !important;
+}
+
+.python {
+    background: linear-gradient(#366c9a, #fcc83c) !important;
+}
+
+.ruby {
+    background: linear-gradient(#930f17, #e6222d);
+}
+
+
+.csharp img, .java img {
+    border-radius: 0;
+}
+
+.java img, .python img, .ruby img {
+    width: 28% !important;
+}
+
+
+
+
+.container {
+    padding: 20rem 15rem;
+    text-align: center;
+    z-index: -1;
+}
+
+.card {
+    background-color: #fff;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.3);
+}
+
+
+.card-body {
+    padding: 10px 20px;
+}
+
+img {
+    width: 15%;
+    border-radius: 50%;
+}
+
+.list {
+    margin: 1.5rem;
+    text-align: left;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+}
+
+.list ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.btn {
+    padding: 15px 20px;
+    background-color: #e91c5d;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    transition: 0.4s ease;
+    min-width: 5rem;
+}
+
+.btn:hover {
+    background-color: #a50e3e;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.3);
+}
+
+
