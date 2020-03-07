@@ -54,6 +54,7 @@
   }
   #imgruby{
     height: 200px;
+    float:left;
 
   }
   #histruby{
@@ -62,4 +63,26 @@
     font-family:"Times New Roman";
     margin-left: 50px;
     margin-right: 50px;
+  }
+
+  #histjava{
+    font-size: 20px;
+    color: #000000;
+    font-family: "Times New Roman";
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  #imgjava{
+    height: 200px;
+  }
+  #histpython{
+    font-size: 20px;
+    color: #000000;
+    font-family: "Times New Roman";
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  #imgpython{
+    height: 200px;
   }
