@@ -61,3 +61,12 @@ a{
   height: 100px;
   float: right;
 }
+
+#imgFiap{
+  
+  border-radius: 50%;
+
+  float: right;
+  width:  78px;
+  height: 78px;
+}
