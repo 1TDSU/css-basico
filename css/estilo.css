@@ -20,11 +20,12 @@ a{
 }
 li{
   background-color:white;
-  margin-right: 37%;
+  margin-right: 41%;
   margin-bottom: 20px;
   text-align: center;
   list-style-type: none;
-  margin-left: 30%;
+  margin-left: 34%;
+  border-radius: 10px;
 }
 #imgJava{
   float: right;
