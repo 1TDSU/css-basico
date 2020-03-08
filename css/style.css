@@ -22,7 +22,7 @@ a:link {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
-    height: 100vh;
+    height: 100%;
 }
 
 .default {
@@ -54,13 +54,18 @@ a:link {
     width: 28% !important;
 }
 
-
-
-
 .container {
-    padding: 20rem 15rem;
+    margin: 0 15rem;
     text-align: center;
-    z-index: -1;
+    min-height: 100vh;
+    position: relative;
+    top: 50%;
+}
+
+.center {
+    position: sticky;
+    top: 50%;
+    transform: translate(0, -50%);
 }
 
 .card {
