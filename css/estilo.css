@@ -20,20 +20,36 @@ a{
 }
 
 #imgJava{
-  width: 20%
+  width: 28%;
   height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1%;
 }
 #imgPython{
-  width: 20%
+  width: 28%;
   height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1%;
 }
 #imgCsharp{
-  width: 20%
+  width: 28%;
   height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1%;
 }
 #imgRuby{
-    width: 20%
-    height: 20%;
+  width: 28%;
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1%;
 }
 
 p{
